@@ -1,0 +1,20 @@
+# PlatformIO
+.pio/
+.platformio/
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+*.o
+*.a
+
+# Development files
+CLAUDE.md
+.claude/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
