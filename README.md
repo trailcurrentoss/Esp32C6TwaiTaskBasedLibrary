@@ -22,7 +22,7 @@ Add to your `platformio.ini`:
 
 ```ini
 lib_deps =
-    https://codeberg.org/trailcurrentopensource/Esp32C6TwaiTaskBasedLibrary.git@0.0.3
+    git@github.com:trailcurrentoss/Esp32C6TwaiTaskBasedLibrary.git@0.0.3
 ```
 
 ### Manual Installation
