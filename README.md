@@ -1,6 +1,6 @@
 # TwaiTaskBased Library - ESP32-C6
 
-A FreeRTOS task-based wrapper for TWAI (Two-Wire Automotive Interface) CAN communication on ESP32-C6 microcontrollers.
+A FreeRTOS task-based wrapper for TWAI (Two-Wire Automotive Interface) CAN communication on ESP32-C6 microcontrollers. Part of the [TrailCurrent](https://trailcurrent.com) open-source vehicle platform.
 
 ## Overview
 
